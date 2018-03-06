@@ -1,0 +1,27 @@
+{
+  "name": "koa-json-url-expand",
+  "version": "1.0.0",
+  "description": "koa-json-url-expand",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keco339/koa-json-url-expand.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "json",
+    "expand",
+    "router",
+    "koa",
+    "rest",
+    "http",
+    "middleware"
+  ],
+  "author": "keco339",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.2.1"
+  }
+}
