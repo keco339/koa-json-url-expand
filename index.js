@@ -1,8 +1,9 @@
 /**
  * Created by Administrator on 2018/3/6.
  */
- const expandResources = require('./lib/expand');
- const pickResource = require('./lib/pick');
+const _ = require('lodash');
+const expandResources = require('./lib/expand');
+const pickResource = require('./lib/pick');
 
 
 function  expandResourceWithPick(resourceJSON, expand='', pick='') {
