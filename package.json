@@ -1,6 +1,6 @@
 {
   "name": "koa-json-url-expand",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "koa-json-url-expand",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "author": "keco339",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.11",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
     "uuid": "^3.2.1"
